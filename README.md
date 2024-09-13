@@ -1,4 +1,4 @@
-#Named Entity Recognition (NER) on Biomedical Data#
+# **Named Entity Recognition (NER) on Biomedical Data**
 
 This project focuses on implementing Named Entity Recognition (NER), a key task in Natural Language Processing (NLP). NER involves identifying and classifying named entities—such as people, organizations, locations, and specialized terms—within text. In this case, the task is applied to a biomedical corpus, which includes entities like diseases, drugs, genes, and other biomedical terms.
 
